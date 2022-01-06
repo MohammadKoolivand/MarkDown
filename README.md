@@ -104,7 +104,7 @@ We can use \*Toturials for this part
 
 ## 9. Code Blocks
 
-```javascript
+```
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
