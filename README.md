@@ -27,14 +27,14 @@ will ends to
 ## 2. Quote
 We have to type of quoting. 
 
-### 2.1 Quoting Text
+#### 2.1 Quoting Text
 You can quote with `>` sign
 
 `> This is my Quote`
 
 > This is my Quote
 
-### 2.2 Quoting Code
+#### 2.2 Quoting Code
 Fo r quoting code you should just put the code between two backticks.
 
 ```
@@ -63,7 +63,7 @@ You can display an image by adding ! and wrapping the alt text in[ ]. Then wrap 
 ## 6. List
 There is two kind of Lists. `Unordered Lists` & `Ordered Lists`.
 
-### 6.1 Unordered List
+#### 6.1 Unordered List
 You can make unordered lists with `-` or `*`
 
 ```
@@ -76,7 +76,7 @@ You can make unordered lists with `-` or `*`
 - John Adams
 - Thomas Jefferson
 
-### 6.2 Ordered List
+#### 6.2 Ordered List
 To making ordered list you can use numbers
 
 
