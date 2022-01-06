@@ -90,16 +90,10 @@ To making ordered list you can use numbers
 2. John Adams
 2. Thomas Jefferson
 
-## 7. Using emoji
-You can add emoji to your writing by typing :EMOJICODE:.
+## 7. Emoji
+You can add emoji to your writing by typing :EMOJICODE:
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
-
-Rendered emoji
-
-Typing : will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press Tab or Enter to complete the highlighted result.
-
-For a full list of available emoji and codes, check out the [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+Full list of available emoji and codes --> [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 
 
