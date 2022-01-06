@@ -95,8 +95,8 @@ You can add emoji to your writing by typing :EMOJICODE:
 
 Full list of available emoji and codes --> [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
-
-
+## 8. Ignore Formatting
+You can ignore formatting by using `\` before signs.
 
 
 
