@@ -63,3 +63,12 @@ You can display an image by adding ! and wrapping the alt text in[ ]. Then wrap 
 ## 6. List
 There is two kind of Lists. `Unordered Lists` & `Ordered Lists`.
 
+### Unordered List
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+### Ordered List
+
+
