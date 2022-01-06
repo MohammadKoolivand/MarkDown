@@ -8,3 +8,10 @@ We have to type of quoting.
 You can quote with > sign
 
 ### Quoting Code
+Fo r quoting code you should just put the code between two backticks.
+
+```
+git status
+git add
+git commit
+```
