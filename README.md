@@ -1,11 +1,11 @@
 ## 1.Heading
-You can use one to six (#) sign for headings. 
+You can use one to six `#` sign for headings. 
 
 ## 2. Quote
 We have to type of quoting. 
 
 ### Quoting Text
-You can quote with > sign
+You can quote with `>` sign
 
 > This is my Quote
 
@@ -19,5 +19,5 @@ git commit
 ```
 
 ## 3. Link
-You can create inline link using parentheses `()` 
+You can create inline link using parentheses `()`  and shoing its text with `[]`.
 
