@@ -20,4 +20,5 @@ git commit
 
 ## 3. Link
 You can create inline link using parentheses `()`  and shoing its text with `[]`.
+
 This is a link for [GitHub Pages](https://pages.github.com/).
