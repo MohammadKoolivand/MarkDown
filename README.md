@@ -3,4 +3,4 @@ You can use one to six (#) sign for headings.
 
 
 ## 2. Quote
-You can quote with <>fdg</> sign
+You can quote with > sign
