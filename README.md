@@ -107,13 +107,13 @@ We can use \*Toturials for this part
 for defining code blocks, you can use name of your language like this:
 
 `
-```javascript
+``javascript
 
 function myFunction(p1, p2) {
   return p1 * p2;   // The function returns the product of p1 and p2
 }
 
-```
+``
 `
 
 ```javascript
