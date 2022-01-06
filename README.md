@@ -7,6 +7,8 @@ We have to type of quoting.
 ### Quoting Text
 You can quote with > sign
 
+> This is my Quote
+
 ### Quoting Code
 Fo r quoting code you should just put the code between two backticks.
 
