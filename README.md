@@ -13,6 +13,8 @@ You can quote with `>` sign
 Fo r quoting code you should just put the code between two backticks.
 
 `
+This is sample for quoting code.
+
 ```
 git status
 git add
