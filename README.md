@@ -1,3 +1,5 @@
+This is a toturial for creating README file in git.
+
 ## 1.Heading
 You can use one to six `#` sign for headings. So below codes
 
