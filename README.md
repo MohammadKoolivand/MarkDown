@@ -66,9 +66,11 @@ There is two kind of Lists. `Unordered Lists` & `Ordered Lists`.
 ### Unordered List
 You can make unordered lists with `-` or `*`
 
-`- George Washington
+```
+- George Washington
 - John Adams
-- Thomas Jefferson`
+- Thomas Jefferson
+```
 
 - George Washington
 - John Adams
