@@ -64,6 +64,11 @@ You can display an image by adding ! and wrapping the alt text in[ ]. Then wrap 
 There is two kind of Lists. `Unordered Lists` & `Ordered Lists`.
 
 ### Unordered List
+You can make unordered lists with `-` or `*`
+
+`- George Washington
+- John Adams
+- Thomas Jefferson`
 
 - George Washington
 - John Adams
