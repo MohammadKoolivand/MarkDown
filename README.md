@@ -106,14 +106,10 @@ We can use \*Toturials for this part
 
 for defining code blocks, you can use name of your language like this:
 
-```
-
 ```javascript
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
-```
-
 ```
 
 
