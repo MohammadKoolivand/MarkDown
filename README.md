@@ -98,6 +98,9 @@ Full list of available emoji and codes --> [Emoji-Cheat-Sheet](https://github.co
 ## 8. Ignore Formatting
 You can ignore formatting by using `\` before signs.
 
+`We can use \*Toturials for this part`
+
+We can use \*Toturials for this part
 
 
 
