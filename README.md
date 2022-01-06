@@ -2,7 +2,7 @@
 You can use one to six `#` sign for headings. 
 
 ``
-** #heading 1 **
+**#heading 1**
 
 ##heading 2
 
