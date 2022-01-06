@@ -56,4 +56,4 @@ You can display an image by adding ! and wrapping the alt text in[ ]. Then wrap 
 
 `![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)`
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png)
