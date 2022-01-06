@@ -57,3 +57,9 @@ You can display an image by adding ! and wrapping the alt text in[ ]. Then wrap 
 `![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)`
 
 ![This is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0BpUNOx1vq9D1SJ0c_ZftUovc7BGO0k6Ucg&usqp=CAU)
+
+## 5. Short Keys
+
+## 6. List
+There is two kind of Lists. `Unordered Lists` & `Ordered Lists`.
+
