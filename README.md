@@ -12,6 +12,14 @@ You can quote with `>` sign
 ### Quoting Code
 Fo r quoting code you should just put the code between two backticks.
 
+`
+```
+git status
+git add
+git commit
+```
+`
+
 ```
 git status
 git add
@@ -22,4 +30,5 @@ git commit
 You can create inline link using parentheses `()`  and shoing its text with `[]`.
 
 `This is a link for [GitHub Pages](https://pages.github.com/).`
+
 This is a link for [GitHub Pages](https://pages.github.com/).
