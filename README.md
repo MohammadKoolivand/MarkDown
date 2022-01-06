@@ -49,3 +49,9 @@ You can create inline link using parentheses `()`  and shoing its text with `[]`
 `This is a link for [GitHub Pages](https://pages.github.com/).`
 
 This is a link for [GitHub Pages](https://pages.github.com/).
+
+## 4. Image
+
+You can display an image by adding ! and wrapping the alt text in[ ]. Then wrap the link for the image in parentheses ().
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
