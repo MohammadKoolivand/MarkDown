@@ -17,3 +17,7 @@ git status
 git add
 git commit
 ```
+
+## 3. Link
+You can create inline link using parentheses `()` 
+
